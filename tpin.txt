@@ -1,3 +1,0 @@
-TPIN: 282145
-udf
-UCC: FUU848
